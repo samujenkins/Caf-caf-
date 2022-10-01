@@ -43,7 +43,8 @@ margin-bottom: 10px;
 .index{
     width: 90%;
     text-align: center;
-    display: inline-flex;
+    display: flex;
+    margin: 5px;
     justify-content: space-around;
 }
 .inicio{
